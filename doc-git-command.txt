@@ -1,3 +1,7 @@
+Hi 
+doing git command
+git status
+
 BOA DevOps basic Sesion from 28th to 30th July, followed by an Exam
 Topics to be covered
 git & github
